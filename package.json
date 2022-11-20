@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "brittle": "^3.1.0",
-    "hypercore": "^10.0.0",
+    "hypercore": "blakejakopovic/hypercore#secp256k1",
     "protocol-buffers": "^4.2.0",
     "random-access-memory": "^6.0.0",
     "standard": "^17.0.0",
